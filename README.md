@@ -46,7 +46,7 @@ Gdy funkcja używa zmiennych/niektórych lokalnych, całkowity rozmiar zmiennych
 Ta sekwencja operacji może być wykonana przez `enter` instrukcji.
 Jednak ta instrukcja rzadko jest używana z powodu problemów z wydajnością.
 
-Funkcja może teraz korzystać z zmiennej lokalnej, odwołując się do [rbp-0x ??].
+Funkcja może teraz korzystać z zmiennej lokalnej, odwołując się do [rbp-0x??].
 Następnie zobaczmy, co się dzieje przy opuszczeniu funkcji.
 ```
 |          |       |          |       |          |

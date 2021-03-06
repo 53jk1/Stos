@@ -17,7 +17,7 @@ ret            ; [5]
 ```
 
 Po pierwsze, kod nazywa sie `function` w [1].
-Przed wywołaniem funkcji początkowe stos wygląda (a) na poniższym rysunku.
+Przed wywołaniem funkcji początkowy stos wygląda jak (a) na poniższym rysunku.
 
 Po przebiegu instrukcji `call`, adres zwrotny jest pchany na szczyt stosu jak (b).
 Adres powrotny jest adresem następnej instrukcji po rozmówcy.
